@@ -49,16 +49,17 @@ Ich erstelle eine Restaurant-Website mit Speisekarten.
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich denke, dass diese User Stories einfach zu implementieren sind und das Programmieren problemlos ablaufen wird. Wenn noch Zeit übrig ist, probiere ich noch Zusatzfeatures einzubauen.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 30.08.2024 | Simon Veljkovic | 1 Arbeitstag | 1 Arbeitstag |
+| 2.A  | 06.09.2024 | Simon Veljkovic | 1 Arbeitstag | 1 Arbeitstag |
+| 3.A  | 20.09.2024 | Simon Veljkovic | 2 Arbeitstage | 2 Arbeitstage |
+| 4.A  | 27.09.2024 | Simon Veljkovic | 1 Arbeitstag | 1 Arbeitstag |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -66,8 +67,8 @@ Ich erstelle eine Restaurant-Website mit Speisekarten.
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 01.11.2024 | OK | Simon Veljkovic |
+| 2.1  | 01.11.2024 |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
