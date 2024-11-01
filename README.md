@@ -7,8 +7,11 @@ Simon Veljkovic
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08.2024 | 0.0.1 | Ich habe den Projektantrag erstellt und mit der Dokumentation angefangen. |
-| 30.08.2024 | 0.0.2 | Ich habe alles in der Dokumentation geschrieben, was ich zum aktuellen Zeitpunkt schreiben konnte und ich habe mit dem Programmieren begonnen. |                                                         |
-|       | 1.0.0   |                                                              |
+| 30.08.2024 | 0.0.2 | Ich habe alles in der Dokumentation geschrieben, was ich zum aktuellen Zeitpunkt schreiben konnte und ich habe mit dem Programmieren begonnen. |                                                         | 06.09.2024 | 0.0.3 | Ich habe die Hauptseite (Titelseite) implementiert. |
+| 13.09.2024 | 0.0.4 | Ich habe die Grundelemente in die Nebenseiten übertragen und Bilder für die Gerichte gesucht. |
+| 20.09.2024 | 0.0.5 | Ich habe die Bilder sowie die dazugehörigen Infos in alle Nebenseiten implementiert. |
+| 27.09.2024 | 0.0.6 | Ich habe die Hoverfunktion implementiert und damit den Programmierteil vollendet. |
+| 01.11.2024 | 1.0.0 | Ich habe die Dokumentation vervollständigt, den Mahara-Eintrag gemacht und damit das Projekt beendet. |
 
 ## 1 Informieren
 
@@ -73,16 +76,11 @@ Ich denke, dass diese User Stories einfach zu implementieren sind und das Progra
 
 Testumgebung:
 Betriebssystem: Windows
+Entwicklungsumgebung: Microsoft Visual Studio Code
 
+Testfazit: 
+Alle Tests funktionierten einwandfrei.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
