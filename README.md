@@ -84,4 +84,4 @@ Alle Tests funktionierten einwandfrei.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://portfolio.bbbaden.ch/user/s-veljkovic-inf22/portfolio-projekt-1-restaurant-website
