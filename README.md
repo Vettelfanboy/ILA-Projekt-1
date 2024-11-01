@@ -32,7 +32,7 @@ Ich erstelle eine Restaurant-Website mit Speisekarten.
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Website geöffnet | Button in der Navbar angeklickt | Man wird zur entsprechenden Seite weitergeleitet. |
-| 2.1  | Website geöffnet | Button eines Gerichts angeklickt | Zutaten und Preise werden angezeigt. |
+| 2.1  | Website geöffnet | Über ein Gericht gehovert | Zutaten und Preise werden angezeigt. |
 | 3.1  | Seite mit Menükarte geöffnet | Button einer anderen Seite in der Navbar angeklickt | Menükarte einer anderen Essenskategorie wird angezeigt. |
 
 
@@ -41,14 +41,11 @@ Ich erstelle eine Restaurant-Website mit Speisekarten.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 30.08.2024 | Simon Veljkovic | Grundelemente implementieren | 1 Arbeitstag |
+| 2.A  | 06.09.2024 | Simon Veljkovic | Titelseite implementieren | 1 Arbeitstag |
+| 3.A  | 20.09.2024 | Simon Veljkovic | Nebenseiten implementieren | 2 Arbeitstage |
+| 4.A  | 27.09.2024 | Simon Veljkovic | Hoverfunktion implementieren | 1 Arbeitstag |
 
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
