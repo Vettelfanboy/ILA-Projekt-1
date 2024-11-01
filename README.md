@@ -63,14 +63,17 @@ Ich denke, dass diese User Stories einfach zu implementieren sind und das Progra
 
 ## 5 Kontrollieren
 
-### 5.1 Testprotokoll
+### 5.1 Testprotokoll/Testumgebung/Testfazit
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  | 01.11.2024 | OK | Simon Veljkovic |
-| 2.1  | 01.11.2024 |          |        |
+| 2.1  | 01.11.2024 | OK | Simon Veljkovic |
+| 3.1  | 01.11.2024 | OK | Simon Veljkovic |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Testumgebung:
+Betriebssystem: Windows
+
 
 ### 5.2 Exploratives Testen
 
